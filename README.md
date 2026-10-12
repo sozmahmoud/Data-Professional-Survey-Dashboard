@@ -64,21 +64,6 @@ A single table, **Data Professional Survey**, with these fields used in the repo
 2. Download `the_course_project.pbix`.
 3. Open the file in Power BI Desktop. The data is stored inside the file, so no extra setup is needed.
 
-## Key Questions the Dashboard Answers
 
-- Where do the survey respondents live, and how old are they on average?
-- Which job titles are most common, and which pay the most?
-- Which programming languages do data professionals prefer in each role?
-- How satisfied are people with their salary and work/life balance?
-- How difficult is it to break into the data field?
-
-## Possible Improvements
-
-- Add slicers for country, job title and age group.
-- Add a second page with deeper analysis (for example salary by country or by years of experience).
-- Add data labels and consistent number formatting to the charts.
-- Replace the satisfaction gauges with bar charts, which are easier to compare across roles.
-
----
 
 *Part of my data analyst course projects.*
